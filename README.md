@@ -4,8 +4,6 @@ Scripts to build a remotely-deployable version of the WoodWing Smart Connection 
 
 ```update_build_id.sh``` - This script builds a new package based on the version of the Smart Connection plugins currently installed into the currently-installed InDesign version. It checks wether the current package is older than what you have installed and prompts to build a new package.
 
-```import_to_munki``` - Imports the resulting package into the JHB Munki instance.
-
 ## Updates
 2018-08-13
 
